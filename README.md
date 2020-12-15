@@ -1,3 +1,2 @@
-## parsed_csv
-# Personal file
+# parsed_csv
 - remove byte char in csv file
